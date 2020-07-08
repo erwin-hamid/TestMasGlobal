@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess\\MasGlobal.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\erwin.pardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erwin.pardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess.Interface\\MasGlobal.DataAccess.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess.Interface\\MasGlobal.DataAccess.Interface.csproj",
+        "projectName": "MasGlobal.DataAccess.Interface",
+        "projectPath": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess.Interface\\MasGlobal.DataAccess.Interface.csproj",
+        "packagesPath": "C:\\Users\\erwin.pardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erwin.pardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\Entity\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess\\MasGlobal.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess\\MasGlobal.DataAccess.csproj",
+        "projectName": "MasGlobal.DataAccess",
+        "projectPath": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess\\MasGlobal.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\erwin.pardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erwin.pardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess.Interface\\MasGlobal.DataAccess.Interface.csproj": {
+                "projectPath": "C:\\Users\\erwin.pardo\\Source\\Repos\\erwin-hamid\\TestMasGlobal\\MasGlobal\\MasGlobal.DataAccess.Interface\\MasGlobal.DataAccess.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

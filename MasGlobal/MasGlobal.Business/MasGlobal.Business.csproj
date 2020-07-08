@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MasGlobal.Business.Interface\MasGlobal.Business.Interface.csproj" />
+    <ProjectReference Include="..\MasGlobal.DataAccess.Interface\MasGlobal.DataAccess.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

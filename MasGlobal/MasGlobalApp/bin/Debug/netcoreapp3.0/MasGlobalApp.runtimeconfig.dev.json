@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\erwin.pardo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\erwin.pardo\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}

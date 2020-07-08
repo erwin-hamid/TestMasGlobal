@@ -1,0 +1,16 @@
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\Entity\bin\Debug\netcoreapp3.0\Entity.deps.json
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\Entity\bin\Debug\netcoreapp3.0\Entity.dll
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\Entity\bin\Debug\netcoreapp3.0\Entity.pdb
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.csprojAssemblyReference.cache
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.AssemblyInfoInputs.cache
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.AssemblyInfo.cs
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.dll
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.pdb
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\Entity\bin\Debug\netcoreapp3.0\Entity.deps.json
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\Entity\bin\Debug\netcoreapp3.0\Entity.dll
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\Entity\bin\Debug\netcoreapp3.0\Entity.pdb
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.csprojAssemblyReference.cache
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.AssemblyInfoInputs.cache
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.AssemblyInfo.cs
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.dll
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\Entity\obj\Debug\netcoreapp3.0\Entity.pdb

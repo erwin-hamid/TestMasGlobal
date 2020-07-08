@@ -1,0 +1,26 @@
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.deps.json
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.dll
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.csprojAssemblyReference.cache
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.AssemblyInfoInputs.cache
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.AssemblyInfo.cs
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.pdb
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\Entity.dll
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.Interface.dll
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.Interface.pdb
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\Entity.pdb
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.csproj.CopyComplete
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.dll
+C:\Users\erwin.pardo\Desktop\MAS Global\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.pdb
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.deps.json
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.dll
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.pdb
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\Entity.dll
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.Interface.dll
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\MasGlobal.DataAccess.Interface.pdb
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\bin\Debug\netcoreapp3.0\Entity.pdb
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.csprojAssemblyReference.cache
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.AssemblyInfoInputs.cache
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.AssemblyInfo.cs
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.csproj.CopyComplete
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.dll
+C:\Users\erwin.pardo\Source\Repos\erwin-hamid\TestMasGlobal\MasGlobal\MasGlobal.DataAccess\obj\Debug\netcoreapp3.0\MasGlobal.DataAccess.pdb
